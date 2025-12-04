@@ -8,9 +8,9 @@ A modern, responsive portfolio website showcasing my journey as a Computer Scien
 
 </h4>
 
-<a href="https://app.netlify.com/projects/rushii-portfolio/deploys" target="_blank"><img src="https://img.shields.io/netlify/86029997-738a-4f7b-a117-4c9595fd2a60?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Deploy Status"></a>
-<a href="https://rushii-portfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Portfolio_Website-4285F4?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio"></a>
-<a href="https://github.com/rushhiii/bashfolio" target="_blank"><img src="https://img.shields.io/badge/Terminal_Portfolio-Bash_Style-2E3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/netlify/86029997-738a-4f7b-a117-4c9595fd2a60?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Deploy Status"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-Portfolio_Website-4285F4?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio"></a>
+<a href="[https://github.com/rushhiii/bashfolio](https://github.com/Rahul-9307)" target="_blank"><img src="https://img.shields.io/badge/Terminal_Portfolio-Bash_Style-2E3440?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository"></a>
 
 
 <div>
@@ -93,25 +93,25 @@ This repository features responsive web design with mobile-first approach, inter
   - Responsive design with smooth scroll navigation
     #### 🎯 Portfolio Section Demos
 
-<a href="https://rushii-portfolio.netlify.app/#home" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Hero%20Section-1E90FF?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Hero Section Demo"></a>
 
-<a href="https://rushii-portfolio.netlify.app/#about" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-About%20Section-3B4252?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="About Section Demo"></a>
 
-<a href="https://rushii-portfolio.netlify.app/#projects" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Github-Projects%20Gallery-7B68EE?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Projects Gallery Demo"></a>
 
-<a href="https://rushii-portfolio.netlify.app/#contact" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Contact%20Form-FA8072?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Contact Form Demo"></a>
 
-<a href="./assets/rushi_tech_resume.pdf" target="_blank">
+<a href="." target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Resume%20Download-ECEFF4?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Resume Download"></a>
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/rushhiii/Website-Portfolio" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-One%20Click%20Deploy-DDA0DD?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="One Click Deploy"></a>
 
-<a href="https://github.com/rushhiii/Rushi-Bashfolio" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Terminal%20Portfolio-CD5C5C?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=3B4252" alt="Terminal Portfolio"></a>
 
 <div>
@@ -126,16 +126,16 @@ This repository features responsive web design with mobile-first approach, inter
   - Dark/light theme toggle with persistent preferences
     #### 🎨 Design & Animation Features
     
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-CSS%20Animations-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="CSS Animations"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="https:" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Theme%20Toggle-F0E68C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Theme Toggle"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Responsive%20Design-FFC72C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Responsive Design"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/js/script.js" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Interactive%20JS-3B4252?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Interactive JavaScript"></a>
 <div>
   <p>
@@ -149,16 +149,16 @@ This repository features responsive web design with mobile-first approach, inter
   - Dark/light theme toggle with persistent preferences
     #### 🎨 Design & Animation Features
     
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-CSS%20Animations-4169E1?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="CSS Animations"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Theme%20Toggle-F0E68C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Theme Toggle"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/css/style.css" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Responsive%20Design-FFC72C?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Responsive Design"></a>
 
-<a href="https://github.com/rushhiii/Website-Portfolio/blob/main/js/script.js" target="_blank">
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Interactive%20JS-3B4252?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Interactive JavaScript"></a>
     
 <div>
@@ -173,7 +173,7 @@ This repository features responsive web design with mobile-first approach, inter
   - Vanilla JavaScript for performance optimization
   - Font Awesome icons and Google Fonts integration
 
-[![Preview](./assets/ele/preview.png)](https://rushii-portfolio.netlify.app)
+[![Preview](./assets/ele/preview.png)]()
 <p>
  This portfolio project is a modern web showcase built with HTML5, CSS3, and vanilla JavaScript. The website features responsive design, smooth animations, and interactive components that demonstrate professional web development skills. Perfect for developers, students, and professionals looking to create an impressive online presence.
  <br>
@@ -181,7 +181,7 @@ This repository features responsive web design with mobile-first approach, inter
 ⚠️ <b>Note:</b> The contact form requires Netlify hosting for full functionality, or you can configure it with other form handling services.
 </p>
 
-<a href="https://rushii-portfolio.netlify.app/" target="_blank">
+<a href="">
   <img src="https://img.shields.io/badge/Netlify-Live%20Portfolio-5E81AC?style=for-the-badge&logo=netlify&logoColor=white&labelColor=2E3440" alt="Live Portfolio Badge">
 </a>
 
@@ -258,7 +258,7 @@ Professional contact form with social media integration and downloadable resume.
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank"> 
   <img src="https://img.shields.io/badge/Chrome_DevTools-Debugging-D08770?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Chrome DevTools"></a> 
 
-<a href="https://www.figma.com/" target="_blank"> 
+<a href="https:" target="_blank"> 
   <img src="https://img.shields.io/badge/Figma-UI_UX_Design-D8DEE9?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma"></a> 
 
 <a href="https://www.netlify.com/" target="_blank"> 
@@ -267,10 +267,10 @@ Professional contact form with social media integration and downloadable resume.
 <a href="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" target="_blank"> 
   <img src="https://img.shields.io/badge/Live_Server-Development_Server-EBCB8B?style=for-the-badge&logo=VisualStudioCode&logoColor=white" alt="Live Server"></a>
 
-<a href="https://prettier.io/" target="_blank"> 
+<a href="https:" target="_blank"> 
   <img src="https://img.shields.io/badge/Prettier-Code_Formatter-A3BE8C?style=for-the-badge&logo=Prettier&logoColor=white" alt="Prettier"></a> 
 
-<a href="https://eslint.org/" target="_blank"> 
+<a href="https:" target="_blank"> 
   <img src="https://img.shields.io/badge/ESLint-Code_Quality-8FBCBB?style=for-the-badge&logo=ESLint&logoColor=white" alt="ESLint"></a>
   
 <div>
@@ -313,7 +313,7 @@ Professional contact form with social media integration and downloadable resume.
 <a href="https://threejs.org/" target="_blank">
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
   
-<a href="https://www.chartjs.org/" target="_blank">
+<a href="https:/" target="_blank">
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"></a>
   
 <a href="https://fontawesome.com/" target="_blank">
@@ -394,49 +394,12 @@ Website-Portfolio/
 └── 📖 README.md             # Project documentation
 ```
 
-</details>
 
-## 🚀 Getting Started
 
-<img src="https://img.shields.io/badge/Setup-Local_Development-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Setup">
 
-### Prerequisites
-- Web browser (Chrome, Firefox, Safari, Edge)
-- Code editor (VS Code recommended)
-- Git (for version control)
-
-### Local Development
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/rushhiii/Website-Portfolio.git
-   cd Website-Portfolio
-   ```
-
-2. **Open in your browser**
-   - Simply open `index.html` in your web browser
-   - Or use a local server for better development experience:
-   ```bash
-   # Using Python
-   python -m http.server 8000
-   
-   # Using Node.js
-   npx serve .
-   
-   # Using VS Code Live Server extension
-   # Right-click on index.html → "Open with Live Server"
-   ```
-
-3. **View the website**
-   - Open `http://localhost:8000` in your browser
-
-## 🌐 Deployment
-
-<img src="https://img.shields.io/badge/Netlify-One_Click_Deploy-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
 
 ### Netlify (Recommended)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rushhiii/Website-Portfolio)
 
 **Step-by-step deployment:**
 
@@ -510,11 +473,11 @@ Update `projects.json` with your project data:
 
 ## Contact
 
-📧 Email: rushiofficial1205@gmail.com  
-💼 LinkedIn: [in/rushhiii](https://linkedin.com/in/rushhiii)  
-🐙 GitHub: [@rushhiii](https://github.com/rushhiii)  
-🌐 Portfolio: [rushii-portfolio.netlify.app](https://rushii-portfolio.netlify.app/)
+📧 Email: rgpatil9307@gmail.com  
+💼 LinkedIn: [in/rushhiii]([https://linkedin.com/in/rushhiii](https://www.linkedin.com/in/rahul-patil-747a642ab/))  
+🐙 GitHub: [@rushhiii]([https://github.com/rushhiii](https://github.com/Rahul-9307))  
+🌐 Portfolio: [)
 
 #
 
-<p align="center"> by <strong>@rushhiii</strong></p>
+<p align="center"> by <strong>@Tech_Rahul</strong></p>
