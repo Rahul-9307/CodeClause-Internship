@@ -1,4 +1,4 @@
-[![Banner](https://github.com/rushhiii/portfolio/blob/main/assets/ele/repo_banner.png?raw=true)](https://github.com/rushhiii/portfolio)
+[![Banner](portfolio-main/portfolio-main/assets/ele/preview.png)](https://github.com/rushhiii/portfolio)
 
 <h1>★ Modern Portfolio Website</h1>
 
