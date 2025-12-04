@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Builder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+    <h2 class="logo">AI<span>Resume</span></h2>
+    <nav>
+        <a href="index.html">Home</a>
+        <button id="themeToggle" class="toggle-btn">🌙</button>
+    </nav>
+</header>
+
+<h1 class="title">Resume Builder</h1>
+
+<div class="builder-container">
+
+    <!-- LEFT FORM -->
+    <div class="form-box">
+
+        <div class="input-group">
+            <label>Name</label>
+            <input id="name" type="text">
+        </div>
+
+        <div class="input-group">
+            <label>Email</label>
+            <input id="email" type="text">
+        </div>
+
+        <div class="input-group">
+            <label>Phone</label>
+            <input id="phone" type="text">
+        </div>
+
+        <div class="input-group">
+            <label>Summary</label>
+            <textarea id="summary"></textarea>
+            <button class="btn ai" onclick="aiSummary()">AI Summary</button>
+        </div>
+
+        <div class="input-group">
+            <label>Experience</label>
+            <textarea id="experience"></textarea>
+            <button class="btn ai" onclick="aiExperience()">AI Experience</button>
+        </div>
+
+        <div class="input-group">
+            <label>Skills</label>
+            <textarea id="skills"></textarea>
+            <button class="btn ai" onclick="aiSkills()">AI Skills</button>
+        </div>
+
+        <div class="input-group">
+            <label>Template</label>
+            <select id="templateSelector" class="select-box" onchange="changeTemplate()">
+                <option value="template1">Modern Sidebar</option>
+                <option value="template2">Minimal Corporate</option>
+                <option value="template3">Gradient Clean</option>
+            </select>
+        </div>
+
+        <button class="btn primary" onclick="updatePreview()">Update Preview</button>
+        <button class="btn" onclick="saveResume()">Save Resume</button>
+        <button class="btn" onclick="loadResume()">Load Resume</button>
+        <button class="btn export" onclick="downloadPDF()">Download PDF</button>
+
+    </div>
+
+    <!-- RIGHT PREVIEW -->
+    <div class="preview template1" id="preview">
+        <h1 id="p-name">Your Name</h1>
+        <p id="p-email"></p>
+        <p id="p-phone"></p>
+
+        <h3>Summary</h3>
+        <p id="p-summary"></p>
+
+        <h3>Experience</h3>
+        <p id="p-experience"></p>
+
+        <h3>Skills</h3>
+        <p id="p-skills"></p>
+    </div>
+
+</div>
+
+<footer class="footer">
+    <p>© 2025 AIResume — Designed with ❤️ for fast and professional resume creation.</p>
+</footer>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script src="templet.js"></script>
+
+</body>
+</html>
