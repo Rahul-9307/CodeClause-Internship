@@ -69,7 +69,7 @@ If you like this project, please give it a star ⭐ on GitHub!
 📧 Email: rgpatil9307@gmail.com  
 GitHub: [Rahul-9307](https://github.com/Rahul-9307)
 
-<p align="center"><b>🎉 Thank you for using this Resume Builder! 🎉</b></p>
+<p align="center"><b>🎉 Thank you for using this Tech_Rahul... 🎉</b></p>
 
 
 
