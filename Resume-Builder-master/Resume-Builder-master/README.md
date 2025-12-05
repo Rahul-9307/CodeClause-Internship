@@ -46,10 +46,10 @@ The design is responsive, includes animations, and works entirely on the fronten
 After adding your images inside the `/assets/images/` folder, update the filenames below:
 
 ### 🏠 Home Page
-![Home Page](./assets/images/home.png)
+![Home Page](./assets/images/forntpage.png)
 
 ### 📝 Form Page
-![Form Page](./assets/images/form.png)
+![Form Page](./assets/images/resumepage.png)
 
 ### 📄 Resume Preview
 ![Resume Preview](./assets/images/dublin-resume-templates2.png)
