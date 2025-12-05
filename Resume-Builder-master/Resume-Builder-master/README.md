@@ -1,41 +1,75 @@
-# Resume-Builder
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E).
+<h1 align="center">✨ AI Powered Resume Builder</h1>
 
-Resume Builder website as a light HTML CSS and JS excercise - [Take a look](https://resume-builder-ram.netlify.app)
-<h1 align="center">
-  <br>
-  <a href="https://github.com/notramm/Resume-Builder">
-  <img src="/assets/images/curriculum-vitae.png" alt="Build.Resume" width="200"></a>
-  <br>
-  Build.Resume
-  <br>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Resume%20Builder-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JavaScript-orange?style=for-the-badge" />
+</p>
 
-<h4 align="center">
-  :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever!
-  <br><br>
-  Made with HTML CSS and JS
-</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Professional+Resume+Builder;Create+Your+Resume+in+Minutes;Responsive+%7C+Animated+%7C+User+Friendly" />
+</p>
 
-<br>
+---
 
-Export your resume as pdf.
+## 📌 Project Overview
 
-All resumes will be exported as the `pdf` file.
+The **AI Resume Builder** is a simple and clean web-based tool that allows users to  
+create **professional resumes** quickly using an easy input form and auto-generated template.
 
-<br>
+The design is responsive, includes animations, and works entirely on the frontend.
+
+---
+
+## ✨ Features
+
+- ✔ Easy-to-use input form  
+- ✔ Auto-generated resume template  
+- ✔ Fully responsive design  
+- ✔ Smooth CSS animations  
+- ✔ Download or print resume  
+- ✔ 100% frontend (no backend required)  
+- ✔ Organized folder structure  
+
+---
+
+## 🛠 Technologies Used
+
+| Technology | Purpose |
+|-----------|----------|
+| **HTML5** | Layout & Structure |
+| **CSS3** | Styling + Animations |
+| **JavaScript** | Form Handling + Resume Generation |
+
+## 📸 Screenshots
+
+After adding your images inside the `/assets/images/` folder, update the filenames below:
+
+### 🏠 Home Page
+![Home Page](./assets/images/home.png)
+
+### 📝 Form Page
+![Form Page](./assets/images/form.png)
+
+### 📄 Resume Preview
+![Resume Preview](./assets/images/dublin-resume-templates2.png)
+
+---
 
 
-## Contribute
+## ⭐ Support
 
-Feel free to add your own templates, language supports, fix bugs or improve the docs. Any kind of help is appreciated! If you make any kind of changes to an existing template, please commit them as new templates.
+If you like this project, please give it a star ⭐ on GitHub!
 
-<br>
+---
 
-## Credits
+## 👨‍💻 Author
 
-This project was made by and Inspired from :
+**Rahul Patil**  
+📧 Email: rgpatil9307@gmail.com  
+GitHub: [Rahul-9307](https://github.com/Rahul-9307)
 
-- <a href="https://www.youtube.com/@geekprobin1456" target="_blank">GeekProbin</a>
+<p align="center"><b>🎉 Thank you for using this Resume Builder! 🎉</b></p>
+
+
+
